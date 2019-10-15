@@ -1,0 +1,172 @@
+ <!------------------------------------------------------------------------------------------------------------------------------------->
+       
+          <!-- About title  -->
+          <h2> ABOUT BSSC FESTIVAL ANNUAL EVENT</h2>
+          <!-- Picture 1 -->
+          <div class="col no-gutters ">
+            <a class="gallery-item ">
+              <img class="aboutUsImg img-fluid" src="img/portfolio-1.jpg" alt="">
+            </a>
+          </div>
+          <!-- Content Description --> 
+          <p class="aboutUsContent lead mb-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown 
+            printer took a galley of type and scrambled it to make a type specimen book. It has survived not 
+            only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem 
+            Ipsum.!
+          </p>
+
+
+          <br> <br>
+
+
+          <h2> GUEST STAR </h2>
+          <!-- Picture 1 -->
+          <div class="col no-gutters ">
+            <a class="gallery-item ">
+              <img class="aboutUsImg img-fluid" src="img/portfolio-1.jpg" alt="">
+            </a>
+          </div>
+          <!-- Content Description --> 
+          <p class="aboutUsContent lead mb-5">Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+            Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown 
+            printer took a galley of type and scrambled it to make a type specimen book. It has survived not 
+            only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+            It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, 
+            and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem 
+            Ipsum.!
+          </p>
+
+
+ <!------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+  <a class="menu-toggle rounded" href="#">
+    <i class="fas fa-bars"></i>
+  </a>
+  <nav id="sidebar-wrapper">
+    <ul class="sidebar-nav">
+
+      <!-- Contents -->
+      <li class="sidebar-brand">
+        <a class="js-scroll-trigger" href="#page-top">Contents</a>
+        
+      </li>
+
+      <!-- Home -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#page-top">Home</a>
+      </li>
+
+      <!-- About us -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#about">About</a>
+      </li>
+
+      <!-- Trailer -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#trailer">Trailer</a>
+      </li>
+
+      <!-- EventCompetition -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#eventCompetition">Competition</a>
+      </li>
+      
+      <!-- EventWorkshop -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#eventWorkshop">Workshop</a>
+      </li>         
+     
+      <!-- EventTalkshowGuestStar -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#EventTalkshowGuestStar"> Talkshow & Guestar</a>
+      </li>  
+
+      <!-- Schedule -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#Schedule">Schedule</a>
+      </li>
+
+      <!-- Sticker -->
+      <li class="sidebar-nav-item">
+        <a class="js-scroll-trigger" href="#sticker">Line Sticker</a>
+    </li>            
+      
+      <!-- Gallery -->
+      <li class="sidebar-nav-item">
+          <a class="js-scroll-trigger" href="#gallery">Gallery</a>
+      </li>
+
+
+
+
+    </ul>
+  </nav>
+
+
+
+
+
+
+ <!------------------------------------------------------------------------------------------------------------------------------------->
+
+
+
+
+
+
+
+
+Tenant
+
+
+      <!-- Baris ketiga adalah media vendor (?) -->
+      <div class="content-section-heading text-center">
+        <h3 class="mediaTitle"> Tenant </h3>
+      </div>
+
+      <div class="mediaImg row gutters">
+
+        <!-- Picture 1 -->
+        <div class="col-lg-2">
+          <a class="gallery-item ">
+            <img class="img-fluid" src="img/vendor-bakmigm.png" alt="">
+          </a>
+        </div>
+
+        <!-- Picture 2 -->
+        <div class="col-lg-2">
+          <a class="gallery-item" >
+            <img class="img-fluid" src="img/vendor-donerkebab.png" alt="">
+          </a>
+        </div>
+
+        <!-- Picture 3 -->
+        <div class="col-lg-2">
+          <a class="gallery-item" >
+            <img class="img-fluid" src="img/vendor-dutch-kitchen.png" alt="">
+          </a>
+        </div>
+
+        <!-- Picture 4 -->
+        <div class="col-lg-2">
+          <a class="gallery-item ">
+            <img class="img-fluid" src="img/vendor-hiroji.png" alt="">
+          </a>
+        </div>
+
+        <!-- Picture 5 -->
+        <div class="col-lg-2">
+          <a class="gallery-item" >
+            <img class="img-fluid" src="img/vendor-shilin.png" alt="">
+          </a>
+        </div>
+        
+      </div>
+
