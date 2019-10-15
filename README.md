@@ -1,8 +1,3 @@
-# Things that are to be updated
-* Update with picture of the website (each page)
-* Explain the frameworks that are used
-* Explain the features that are implemented
-* Update picture without rounded corner 
 
 ## Homepage
 <a><img src="https://github.com/Adhito/Project_Web_2019BSSCFestival/blob/master/screenshot/Screen%20Shot%202019-10-15%20at%2017.49.10.png"></a>
